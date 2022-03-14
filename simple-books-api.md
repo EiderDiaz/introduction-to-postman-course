@@ -49,7 +49,7 @@ Retrieve detailed information about a book.
 
  `/orders`
 
-Allows you to submit a new order. Requires authentication.
+Allows you to submit a new order. [Requires authentication](https://github.com/EiderDiaz/introduction-to-postman-course/blob/main/simple-books-api.md#9-api-authentication).
 
 🟧 The request body needs to be in JSON format and include the following properties:
 
