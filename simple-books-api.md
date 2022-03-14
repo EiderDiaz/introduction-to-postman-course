@@ -98,7 +98,7 @@ Allows you to view an existing order. Requires authentication.
 
 Update an existing order. Requires authentication.
 
-🟧 The request body needs to be in JSON format and allows you to update the following properties:
+🟪 The request body needs to be in JSON format and allows you to update the following properties:
 
  - `customerName` - String
 
