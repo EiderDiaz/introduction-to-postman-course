@@ -77,7 +77,7 @@ The response body will contain the order Id.
 
  `/orders`
 
-Allows you to view all orders. Requires authentication.
+Allows you to view all orders. [Requires authentication](https://github.com/EiderDiaz/introduction-to-postman-course/blob/main/simple-books-api.md#9-api-authentication).
 
 ### 6. Get an order ###
 
@@ -86,7 +86,7 @@ Allows you to view all orders. Requires authentication.
 ``` 
 `/orders/:orderId`
 
-Allows you to view an existing order. Requires authentication.
+Allows you to view an existing order. [Requires authentication](https://github.com/EiderDiaz/introduction-to-postman-course/blob/main/simple-books-api.md#9-api-authentication).
 
 ### 7. Update an order ###
 
@@ -96,7 +96,7 @@ Allows you to view an existing order. Requires authentication.
 
  `/orders/:orderId`
 
-Update an existing order. Requires authentication.
+Update an existing order. [Requires authentication](https://github.com/EiderDiaz/introduction-to-postman-course/blob/main/simple-books-api.md#9-api-authentication).
 
 🟪 The request body needs to be in JSON format and allows you to update the following properties:
 
@@ -120,7 +120,7 @@ Authorization: Bearer <YOUR TOKEN>
 
  `/orders/:orderId`
 
-Delete an existing order. Requires authentication.
+Delete an existing order. [Requires authentication](https://github.com/EiderDiaz/introduction-to-postman-course/blob/main/simple-books-api.md#9-api-authentication).
 
 The request body needs to be empty.
 
