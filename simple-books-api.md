@@ -150,7 +150,7 @@ To submit or view an order, you need to register your API client.
  ```json
  {
     "clientName": "Postman",
-    "clientEmail": "valentin@example.com"
+    "clientEmail": "eider@example.com"
 }
  ```
 
